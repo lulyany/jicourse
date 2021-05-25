@@ -1,1 +1,2 @@
-# jicourse
+# Initial page
+
